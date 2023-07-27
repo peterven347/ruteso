@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:windowBackground">#00ff00</item>
+        <item name="android:editTextBackground">@drawable/rn_edit_text_material</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowLightStatusBar">false</item> <!--true makes statusbar text visible-->
+    </style>
+
+    <style name="SplashScreenTheme" parent="SplashScreen_SplashTheme">
+        <item name="colorPrimaryDark">@color/status_bar_color</item>
+    </style>
+
+    <style name="DatePickerTheme" parent="DatePickerBaseTheme">
+        <item name="android:colorControlNormal">#0000ff</item>
+        <item name="colorAccent">#00ff00</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+</resources>

@@ -1,0 +1,20 @@
+    "react-native-tesseract-ocr": "''2.0.3",
+    https://reactnavigation.org/docs/drawer-layout/
+adb shell getprop ro.product.cpu.abi
+
+Linking.openURL('fb://')
+Linking.openURL('facebook://')
+Linking.openURL('whatsapp://app')
+OpenApplication.openApplication('com.facebook.katana');
+https://react-native-share.github.io/react-native-share/docs/install
+react-native-fs
+https://reactnative.dev/docs/navigation
+https://reactnative.dev/docs/components-and-apis
+https://reactnative.dev/docs/network
+https://stackoverflow.com/questions/22192291/how-to-change-the-status-bar-color-in-android
+https://bobbyhadz.com/blog/react-update-object-in-array#update-an-array-of-objects-state-in-react
+
+
+MainActivity.java:SplashScreen.show(this, R.style.SplashScreenTheme, true);
+and styles.xml when you need to change color of statusbar on splashscreen
+
